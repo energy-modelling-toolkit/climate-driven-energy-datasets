@@ -46,9 +46,9 @@ The list is a work-in-progress, please reply to this post if you want to add a d
 | ECEM            | CF, Energy, Power  | 1979-2016    | Europe | Country and eh2050 clusters | daily     | ERA-INTERIM      | ECMWF Copernicus License 1.0 | no      | http://ecem.wemcouncil.org/                                                                                              |
 | ENTSO-E PECD    | Inflow, reservoirs | 1982-2017    | Europe | ENTSO-E Area                | weekly    |                  |                              |         | https://www.entsoe.eu/outlooks/seasonal/                                                                                 |
 | JRC 2020        | Inflow, reservoirs | 1990-2015    | Europe | Country                     | Hourly    | LISFLOOD         | CC Attributions 4.0          | no      | https://data.jrc.ec.europa.eu/dataset/221c6cf4-98c0-4793-8e3a-78820377387f/resource/fdb93cbc-703e-46b6-8cf7-02fba9a0ac38 |
+| JRC-EFAS-Hydropower | Inflow, ror generation | 1991-2019 | Europe | Country | Weekly/daily | C3S EFAS | CC Attributions 4.0 | no | https://zenodo.org/record/4086004 |  
  
 ## Climate change projections
-Definition of CC
  
 ### Demand
  
